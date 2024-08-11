@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6004582669544702003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6004582669544702002}
+  - component: {fileID: 2000942111532840442}
+  - component: {fileID: 6004582669544702005}
+  - component: {fileID: 3946889327965528720}
+  - component: {fileID: 6246772839833345606}
+  m_Layer: 0
+  m_Name: Glass
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6004582669544702002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669544702003}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: 0, y: 0.16, z: 0.14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6004582669862340078}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 186.55, y: -131.2, z: 0}
+--- !u!137 &2000942111532840442
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669544702003}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 05391ac74e000544c804af834fafe26d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -9146618070568788744, guid: 688b0f5432f66194d93968b5826b1c12, type: 3}
+  m_Bones: []
+  m_BlendShapeWeights:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0.07}
+    m_Extent: {x: 0.1, y: 0.1, z: 0.2}
+  m_DirtyAABB: 0
+--- !u!114 &6004582669544702005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669544702003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ae7057ebb13afe4c875ffdf9b637f22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  types: 00000000140000000a000000
+--- !u!114 &3946889327965528720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669544702003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7f5180c478ffd245bd8c95a3159ae8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sliderDatas:
+  - name: Water
+    marginValues: {x: 0, y: 1}
+    negativeShapes: []
+    negativeBones: []
+    positiveShapes:
+    - shapeName: water
+      weight: 1
+    positiveBones: []
+    overOneValue: 0
+    possitiveOverOneBones: []
+    isLight: 0
+  - name: Wine
+    marginValues: {x: 0, y: 1}
+    negativeShapes: []
+    negativeBones: []
+    positiveShapes:
+    - shapeName: wine
+      weight: 1
+    positiveBones: []
+    overOneValue: 0
+    possitiveOverOneBones: []
+    isLight: 0
+  - name: Champagne
+    marginValues: {x: 0, y: 1}
+    negativeShapes: []
+    negativeBones: []
+    positiveShapes:
+    - shapeName: champagne
+      weight: 1
+    - shapeName: wine
+      weight: 0.8
+    positiveBones: []
+    overOneValue: 0
+    possitiveOverOneBones: []
+    isLight: 0
+  - name: Beer
+    marginValues: {x: 0, y: 1}
+    negativeShapes: []
+    negativeBones: []
+    positiveShapes:
+    - shapeName: beer
+      weight: 1
+    positiveBones: []
+    overOneValue: 0
+    possitiveOverOneBones: []
+    isLight: 0
+  - name: Cup
+    marginValues: {x: 0, y: 1}
+    negativeShapes: []
+    negativeBones: []
+    positiveShapes:
+    - shapeName: cup
+      weight: 1
+    positiveBones: []
+    overOneValue: 0
+    possitiveOverOneBones: []
+    isLight: 0
+  - name: Cocktail
+    marginValues: {x: 0, y: 1}
+    negativeShapes: []
+    negativeBones: []
+    positiveShapes:
+    - shapeName: cocktail
+      weight: 1
+    - shapeName: wine
+      weight: 1
+    positiveBones: []
+    overOneValue: 0
+    possitiveOverOneBones: []
+    isLight: 0
+  poseSliderDatas: []
+  meshRenderers:
+  - {fileID: 1796549449070290847}
+  - {fileID: 2000942111532840442}
+  blendShapeMinMaxValues: []
+  defaultPrefabs: []
+  mirroredBones: []
+  possibleParentBones: []
+  rigParent: {fileID: 0}
+  bonesParent: {fileID: 0}
+  runtimeTransformHandle: {fileID: 0}
+  movableParts: []
+--- !u!65 &6246772839833345606
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669544702003}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2000001, y: 0.20000005, z: 0.40000004}
+  m_Center: {x: -0.000000010430813, y: -0.0000000010430813, z: 0.06999999}
+--- !u!1 &6004582669862340077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6004582669862340078}
+  - component: {fileID: 1796549449070290847}
+  m_Layer: 0
+  m_Name: Glass
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6004582669862340078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669862340077}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6004582669544702002}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1796549449070290847
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6004582669862340077}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6dcec53d612095f49929b580350d63cc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -9146618070568788744, guid: 688b0f5432f66194d93968b5826b1c12, type: 3}
+  m_Bones: []
+  m_BlendShapeWeights:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0.07}
+    m_Extent: {x: 0.1, y: 0.1, z: 0.2}
+  m_DirtyAABB: 0

@@ -1,0 +1,547 @@
+Assets/Editor.meta
+Assets/Editor/EditorTools.cs
+Assets/Editor/EditorTools.cs.meta
+Assets/Inverse Kinematics.meta
+Assets/Inverse Kinematics/3D.meta
+Assets/Inverse Kinematics/3D/Arm.FBX
+Assets/Inverse Kinematics/3D/Arm.FBX.meta
+Assets/Inverse Kinematics/3D/Materials.meta
+Assets/Inverse Kinematics/3D/Materials/Arm.mat
+Assets/Inverse Kinematics/3D/Materials/Arm.mat.meta
+Assets/Inverse Kinematics/3D/Materials/Blue.mat
+Assets/Inverse Kinematics/3D/Materials/Blue.mat.meta
+Assets/Inverse Kinematics/3D/Materials/Red.mat
+Assets/Inverse Kinematics/3D/Materials/Red.mat.meta
+Assets/Inverse Kinematics/Inverse Kinematics.pdf
+Assets/Inverse Kinematics/Inverse Kinematics.pdf.meta
+Assets/Inverse Kinematics/Scenes.meta
+Assets/Inverse Kinematics/Scenes/Arm.unity
+Assets/Inverse Kinematics/Scenes/Arm.unity.meta
+Assets/Inverse Kinematics/Scenes/ArmSettings.lighting
+Assets/Inverse Kinematics/Scenes/ArmSettings.lighting.meta
+Assets/Inverse Kinematics/Scripts.meta
+Assets/Inverse Kinematics/Scripts/InverseKinematics.cs
+Assets/Inverse Kinematics/Scripts/InverseKinematics.cs.meta
+Assets/Inverse Kinematics/Textures.meta
+Assets/Inverse Kinematics/Textures/Arm Normals.tga
+Assets/Inverse Kinematics/Textures/Arm Normals.tga.meta
+Assets/Inverse Kinematics/Textures/Arm.tga
+Assets/Inverse Kinematics/Textures/Arm.tga.meta
+Assets/Material.meta
+Assets/Material/Base Material.mat
+Assets/Material/Base Material.mat.meta
+Assets/Material/GroundMaterial.mat
+Assets/Material/GroundMaterial.mat.meta
+Assets/Material/RigPoints1Material.mat
+Assets/Material/RigPoints1Material.mat.meta
+Assets/Material/RigPoints2Material.mat
+Assets/Material/RigPoints2Material.mat.meta
+Assets/Material/RigPoints3Material.mat
+Assets/Material/RigPoints3Material.mat.meta
+Assets/Material/RigPoints4Material.mat
+Assets/Material/RigPoints4Material.mat.meta
+Assets/Material/SelectedObjectMaterial.mat
+Assets/Material/SelectedObjectMaterial.mat.meta
+Assets/Material/SpriteMateril.mat
+Assets/Material/SpriteMateril.mat.meta
+Assets/Material/SunMatersial.mat
+Assets/Material/SunMatersial.mat.meta
+Assets/Material/ViewAllwaysMaterial.mat
+Assets/Material/ViewAllwaysMaterial.mat.meta
+Assets/Models.meta
+Assets/Models/BaseAdult.mhx2
+Assets/Models/BaseAdult.mhx2.meta
+Assets/Models/Base_Adult.blend
+Assets/Models/Base_Adult.blend.meta
+Assets/Models/Base_Adult.blend1
+Assets/Models/Base_Adult.blend1.meta
+Assets/Models/Base_blender.blend1
+Assets/Models/Base_blender.blend1.meta
+Assets/Models/Theet.mhx2
+Assets/Models/Theet.mhx2.meta
+Assets/Models/preops.blend
+Assets/Models/preops.blend.meta
+Assets/Models/preops.blend1
+Assets/Models/preops.blend1.meta
+Assets/Models/textures.meta
+Assets/Models/textures/AnatomyMaleSkinBaseColor.psd
+Assets/Models/textures/AnatomyMaleSkinBaseColor.psd.meta
+Assets/Models/textures/AnatomyOfMaleSkinNormal.png
+Assets/Models/textures/AnatomyOfMaleSkinNormal.png.meta
+Assets/Models/textures/AnatomyoffemaleskinBaseColor.png
+Assets/Models/textures/AnatomyoffemaleskinBaseColor.png.meta
+Assets/Models/textures/AnatomyoffemaleskinNormal.png
+Assets/Models/textures/AnatomyoffemaleskinNormal.png.meta
+Assets/Models/textures/Black and White.png
+Assets/Models/textures/Black and White.png.meta
+Assets/Models/textures/Eves_Young_Caucasian_Male_Muscular.png
+Assets/Models/textures/Eves_Young_Caucasian_Male_Muscular.png.meta
+Assets/Models/textures/EyeMaterial.mat
+Assets/Models/textures/EyeMaterial.mat.meta
+Assets/Models/textures/MuscleMaterial.mat
+Assets/Models/textures/MuscleMaterial.mat.meta
+Assets/Models/textures/Normals.png
+Assets/Models/textures/Normals.png.meta
+Assets/Models/textures/Normals.psd
+Assets/Models/textures/Normals.psd.meta
+Assets/Models/textures/SkinMaterial.mat
+Assets/Models/textures/SkinMaterial.mat.meta
+Assets/Models/textures/brown_eye.png
+Assets/Models/textures/brown_eye.png.meta
+Assets/Models/textures/eye_texture.psd
+Assets/Models/textures/eye_texture.psd.meta
+Assets/Models/textures/lightblue_eye.png
+Assets/Models/textures/lightblue_eye.png.meta
+Assets/Models/textures/teeth.png
+Assets/Models/textures/teeth.png.meta
+Assets/Models/textures/tongue01_diffuse.png
+Assets/Models/textures/tongue01_diffuse.png.meta
+Assets/New Lighting Settings.lighting
+Assets/New Lighting Settings.lighting.meta
+Assets/NotFoundImage.psd
+Assets/NotFoundImage.psd.meta
+Assets/OBJImport.meta
+Assets/OBJImport/CharWordReader.cs
+Assets/OBJImport/CharWordReader.cs.meta
+Assets/OBJImport/MTLLoader.cs
+Assets/OBJImport/MTLLoader.cs.meta
+Assets/OBJImport/OBJLoader.cs
+Assets/OBJImport/OBJLoader.cs.meta
+Assets/OBJImport/OBJLoaderHelper.cs
+Assets/OBJImport/OBJLoaderHelper.cs.meta
+Assets/OBJImport/OBJObjectBuilder.cs
+Assets/OBJImport/OBJObjectBuilder.cs.meta
+Assets/OBJImport/README.HTML
+Assets/OBJImport/README.HTML.meta
+Assets/OBJImport/Samples.meta
+Assets/OBJImport/Samples/ObjFromFile.cs
+Assets/OBJImport/Samples/ObjFromFile.cs.meta
+Assets/OBJImport/Samples/ObjFromFile.unity
+Assets/OBJImport/Samples/ObjFromFile.unity.meta
+Assets/OBJImport/Samples/ObjFromStream.cs
+Assets/OBJImport/Samples/ObjFromStream.cs.meta
+Assets/OBJImport/Samples/ObjFromStream.unity
+Assets/OBJImport/Samples/ObjFromStream.unity.meta
+Assets/OBJImport/StringExtensions.cs
+Assets/OBJImport/StringExtensions.cs.meta
+Assets/OBJImport/TextureLoader.meta
+Assets/OBJImport/TextureLoader/BMPLoader.cs
+Assets/OBJImport/TextureLoader/BMPLoader.cs.meta
+Assets/OBJImport/TextureLoader/BinaryExtensions.cs
+Assets/OBJImport/TextureLoader/BinaryExtensions.cs.meta
+Assets/OBJImport/TextureLoader/ColorExtensions.cs
+Assets/OBJImport/TextureLoader/ColorExtensions.cs.meta
+Assets/OBJImport/TextureLoader/DDSLoader.cs
+Assets/OBJImport/TextureLoader/DDSLoader.cs.meta
+Assets/OBJImport/TextureLoader/ImageLoader.cs
+Assets/OBJImport/TextureLoader/ImageLoader.cs.meta
+Assets/OBJImport/TextureLoader/ImageLoaderHelper.cs
+Assets/OBJImport/TextureLoader/ImageLoaderHelper.cs.meta
+Assets/OBJImport/TextureLoader/ImageUtils.cs
+Assets/OBJImport/TextureLoader/ImageUtils.cs.meta
+Assets/OBJImport/TextureLoader/TGALoader.cs
+Assets/OBJImport/TextureLoader/TGALoader.cs.meta
+Assets/Plugins.meta
+Assets/Plugins/Android.meta
+Assets/Plugins/Android/AndroidManifest.xml
+Assets/Plugins/Android/AndroidManifest.xml.meta
+Assets/Plugins/RuntimeTransformHandle.meta
+Assets/Plugins/RuntimeTransformHandle/Resources.meta
+Assets/Plugins/RuntimeTransformHandle/Resources/Shaders.meta
+Assets/Plugins/RuntimeTransformHandle/Resources/Shaders/AdvancedHandleShader.shader
+Assets/Plugins/RuntimeTransformHandle/Resources/Shaders/AdvancedHandleShader.shader.meta
+Assets/Plugins/RuntimeTransformHandle/Resources/Shaders/HandleShader.shader
+Assets/Plugins/RuntimeTransformHandle/Resources/Shaders/HandleShader.shader.meta
+Assets/Plugins/RuntimeTransformHandle/RuntimeTransformHandle.asmdef
+Assets/Plugins/RuntimeTransformHandle/RuntimeTransformHandle.asmdef.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleAxes.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleAxes.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleBase.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleBase.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleSnappingType.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleSnappingType.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleSpace.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleSpace.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleType.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/HandleType.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position/PositionAxis.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position/PositionAxis.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position/PositionHandle.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position/PositionHandle.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position/PositionPlane.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Position/PositionPlane.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Rotation.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Rotation/RotationAxis.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Rotation/RotationAxis.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Rotation/RotationHandle.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Rotation/RotationHandle.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale/ScaleAxis.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale/ScaleAxis.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale/ScaleGlobal.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale/ScaleGlobal.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale/ScaleHandle.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Handles/Scale/ScaleHandle.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/RuntimeTransformHandle.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/RuntimeTransformHandle.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Utils.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Utils/HandleMathUtils.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Utils/HandleMathUtils.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Scripts/Utils/MeshUtils.cs
+Assets/Plugins/RuntimeTransformHandle/Scripts/Utils/MeshUtils.cs.meta
+Assets/Plugins/RuntimeTransformHandle/Sprites.meta
+Assets/Plugins/RuntimeTransformHandle/Sprites/Move-Icon.png
+Assets/Plugins/RuntimeTransformHandle/Sprites/Move-Icon.png.meta
+Assets/Plugins/RuntimeTransformHandle/Sprites/Rotate-Icon.png
+Assets/Plugins/RuntimeTransformHandle/Sprites/Rotate-Icon.png.meta
+Assets/Plugins/RuntimeTransformHandle/Sprites/Scale-Icon.png
+Assets/Plugins/RuntimeTransformHandle/Sprites/Scale-Icon.png.meta
+Assets/Plugins/RuntimeTransformHandle/package.json
+Assets/Plugins/RuntimeTransformHandle/package.json.meta
+Assets/Post processing.meta
+Assets/Post processing/MainPPVolume.asset
+Assets/Post processing/MainPPVolume.asset.meta
+Assets/Resources.meta
+Assets/Resources/Prefab.meta
+Assets/Resources/Prefab/Anatomy.meta
+Assets/Resources/Prefab/Anatomy/Appendage.prefab
+Assets/Resources/Prefab/Anatomy/Appendage.prefab.meta
+Assets/Resources/Prefab/Anatomy/Human.prefab
+Assets/Resources/Prefab/Anatomy/Human.prefab.meta
+Assets/Resources/Prefab/Anatomy/Skeleton.prefab
+Assets/Resources/Prefab/Anatomy/Skeleton.prefab.meta
+Assets/Resources/Prefab/Empty.prefab
+Assets/Resources/Prefab/Empty.prefab.meta
+Assets/Resources/Prefab/Head.meta
+Assets/Resources/Prefab/Head/Glasses.prefab
+Assets/Resources/Prefab/Head/Glasses.prefab.meta
+Assets/Resources/Prefab/Head/Hat.prefab
+Assets/Resources/Prefab/Head/Hat.prefab.meta
+Assets/Resources/Prefab/In Hand.meta
+Assets/Resources/Prefab/In Hand/Glass.prefab
+Assets/Resources/Prefab/In Hand/Glass.prefab.meta
+Assets/Resources/Prefab/In Hand/Weapons.meta
+Assets/Resources/Prefab/In Hand/Weapons/Baseball bat.prefab
+Assets/Resources/Prefab/In Hand/Weapons/Baseball bat.prefab.meta
+Assets/Resources/Prefab/In Hand/Weapons/Bow.prefab
+Assets/Resources/Prefab/In Hand/Weapons/Bow.prefab.meta
+Assets/Resources/Prefab/In Hand/Weapons/Sword.prefab
+Assets/Resources/Prefab/In Hand/Weapons/Sword.prefab.meta
+Assets/Resources/Prefab/Light.meta
+Assets/Resources/Prefab/Light/Light.prefab
+Assets/Resources/Prefab/Light/Light.prefab.meta
+Assets/Resources/Prefab/Light/Spot light.prefab
+Assets/Resources/Prefab/Light/Spot light.prefab.meta
+Assets/Resources/Prefab/Objects.meta
+Assets/Resources/Prefab/Objects/Car.prefab
+Assets/Resources/Prefab/Objects/Car.prefab.meta
+Assets/Resources/Prefab/Objects/Chair.prefab
+Assets/Resources/Prefab/Objects/Chair.prefab.meta
+Assets/Resources/Prefab/Objects/Skull.prefab
+Assets/Resources/Prefab/Objects/Skull.prefab.meta
+Assets/Resources/Prefab/Shapes.meta
+Assets/Resources/Prefab/Shapes/Capsule.prefab
+Assets/Resources/Prefab/Shapes/Capsule.prefab.meta
+Assets/Resources/Prefab/Shapes/Cube.prefab
+Assets/Resources/Prefab/Shapes/Cube.prefab.meta
+Assets/Resources/Prefab/Shapes/Cylinder.prefab
+Assets/Resources/Prefab/Shapes/Cylinder.prefab.meta
+Assets/Resources/Prefab/Shapes/Sphere.prefab
+Assets/Resources/Prefab/Shapes/Sphere.prefab.meta
+Assets/Scenes.meta
+Assets/Scenes/SampleScene.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scenes/SampleScene/LightingData.asset
+Assets/Scenes/SampleScene/LightingData.asset.meta
+Assets/Scenes/SampleScene/Main Camera Profile.asset
+Assets/Scenes/SampleScene/Main Camera Profile.asset.meta
+Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+Assets/Scenes/SampleScene_Profiles.meta
+Assets/Scripts.meta
+Assets/Scripts/Camera.meta
+Assets/Scripts/Camera/CameraScreenScontrol.cs
+Assets/Scripts/Camera/CameraScreenScontrol.cs.meta
+Assets/Scripts/Camera/FreeCam.cs
+Assets/Scripts/Camera/FreeCam.cs.meta
+Assets/Scripts/Camera/SimpleCameraInput.cs
+Assets/Scripts/Camera/SimpleCameraInput.cs.meta
+Assets/Scripts/CharacterCreation.cs
+Assets/Scripts/CharacterCreation.cs.meta
+Assets/Scripts/CopyBoneData.cs
+Assets/Scripts/CopyBoneData.cs.meta
+Assets/Scripts/Extensions.cs
+Assets/Scripts/Extensions.cs.meta
+Assets/Scripts/GENERAL.cs
+Assets/Scripts/GENERAL.cs.meta
+Assets/Scripts/HandleTypeRestiction.cs
+Assets/Scripts/HandleTypeRestiction.cs.meta
+Assets/Scripts/MaterailScript.cs
+Assets/Scripts/MaterailScript.cs.meta
+Assets/Scripts/Models.meta
+Assets/Scripts/Models/MyMeshData.cs
+Assets/Scripts/Models/MyMeshData.cs.meta
+Assets/Scripts/Models/MyVector2.cs
+Assets/Scripts/Models/MyVector2.cs.meta
+Assets/Scripts/Models/MyVector3.cs
+Assets/Scripts/Models/MyVector3.cs.meta
+Assets/Scripts/Models/MyVector4.cs
+Assets/Scripts/Models/MyVector4.cs.meta
+Assets/Scripts/MyParentRestriction.cs
+Assets/Scripts/MyParentRestriction.cs.meta
+Assets/Scripts/SetCharacterSliderValue.cs
+Assets/Scripts/SetCharacterSliderValue.cs.meta
+Assets/Scripts/UI.meta
+Assets/Scripts/UI/CameraUiSettings.cs
+Assets/Scripts/UI/CameraUiSettings.cs.meta
+Assets/Scripts/UI/EditMenuBehaviour.cs
+Assets/Scripts/UI/EditMenuBehaviour.cs.meta
+Assets/Scripts/UI/Imported object.prefab
+Assets/Scripts/UI/Imported object.prefab.meta
+Assets/Scripts/UI/ImportedObjectsBehaviour.cs
+Assets/Scripts/UI/ImportedObjectsBehaviour.cs.meta
+Assets/Scripts/UI/MenusBehaviour.cs
+Assets/Scripts/UI/MenusBehaviour.cs.meta
+Assets/Scripts/UI/MySlider2D.cs
+Assets/Scripts/UI/MySlider2D.cs.meta
+Assets/Scripts/UI/SaveMenusBehaviour.cs
+Assets/Scripts/UI/SaveMenusBehaviour.cs.meta
+Assets/Scripts/UI/SelectFileScript.cs
+Assets/Scripts/UI/SelectFileScript.cs.meta
+Assets/Scripts/UI/SettingsMenuBehaviour.cs
+Assets/Scripts/UI/SettingsMenuBehaviour.cs.meta
+Assets/Scripts/UI/SlidePrefab.prefab
+Assets/Scripts/UI/SlidePrefab.prefab.meta
+Assets/Scripts/UI/TextButton.cs
+Assets/Scripts/UI/TextButton.cs.meta
+Assets/Scripts/UI/WorldMenuBehaviour.cs
+Assets/Scripts/UI/WorldMenuBehaviour.cs.meta
+Assets/Scripts/UI/WorldObjectUIElement.prefab
+Assets/Scripts/UI/WorldObjectUIElement.prefab.meta
+Assets/Shading.meta
+Assets/Shading/GridShader.shadergraph
+Assets/Shading/GridShader.shadergraph.meta
+Assets/Shading/Universal Render Pipeline Asset.asset
+Assets/Shading/Universal Render Pipeline Asset.asset.meta
+Assets/Shading/Universal Render Pipeline Asset_Renderer.asset
+Assets/Shading/Universal Render Pipeline Asset_Renderer.asset.meta
+Assets/SkeletonWarrior.meta
+Assets/SkeletonWarrior/Mesh.meta
+Assets/SkeletonWarrior/Mesh/Materials.meta
+Assets/SkeletonWarrior/Mesh/Materials/M_SWShieldMtl.mat
+Assets/SkeletonWarrior/Mesh/Materials/M_SWShieldMtl.mat.meta
+Assets/SkeletonWarrior/Mesh/Materials/M_SWSkeletonMtl.mat
+Assets/SkeletonWarrior/Mesh/Materials/M_SWSkeletonMtl.mat.meta
+Assets/SkeletonWarrior/Mesh/Materials/M_SWSwordMtl.mat
+Assets/SkeletonWarrior/Mesh/Materials/M_SWSwordMtl.mat.meta
+Assets/SkeletonWarrior/Mesh/SWShield.fbx
+Assets/SkeletonWarrior/Mesh/SWShield.fbx.meta
+Assets/SkeletonWarrior/Mesh/SWSword.fbx
+Assets/SkeletonWarrior/Mesh/SWSword.fbx.meta
+Assets/SkeletonWarrior/Mesh/Skeleton.blend
+Assets/SkeletonWarrior/Mesh/Skeleton.blend.meta
+Assets/SkeletonWarrior/Mesh/Skeleton.blend1
+Assets/SkeletonWarrior/Mesh/Skeleton.blend1.meta
+Assets/SkeletonWarrior/Mesh/SkeletonWarriorUnity.fbx
+Assets/SkeletonWarrior/Mesh/SkeletonWarriorUnity.fbx.meta
+Assets/SkeletonWarrior/Scenes.meta
+Assets/SkeletonWarrior/Scenes/M_PlaneMat.mat
+Assets/SkeletonWarrior/Scenes/M_PlaneMat.mat.meta
+Assets/SkeletonWarrior/Textures.meta
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_AlbedoTransparency.tga
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_AlbedoTransparency.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_AmbientOcclusion.tga
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_AmbientOcclusion.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_MetallicSmoothness.tga
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_MetallicSmoothness.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_Normal.tga
+Assets/SkeletonWarrior/Textures/T_SWShieldMtl_Normal.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_AlbedoTransparency.tga
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_AlbedoTransparency.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_AmbientOcclusion.tga
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_AmbientOcclusion.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_MetallicSmoothness.tga
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_MetallicSmoothness.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_Normal.tga
+Assets/SkeletonWarrior/Textures/T_SWSkeletonMtl_Normal.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_AlbedoTransparency.tga
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_AlbedoTransparency.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_AmbientOcclusion.tga
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_AmbientOcclusion.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_MetallicSmoothness.tga
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_MetallicSmoothness.tga.meta
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_Normal.tga
+Assets/SkeletonWarrior/Textures/T_SWSwordMtl_Normal.tga.meta
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/Documentation.meta
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Assets/TextMesh Pro/Fonts.meta
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/TextMesh Pro/Fonts/MyFontSymbols.ttf
+Assets/TextMesh Pro/Fonts/MyFontSymbols.ttf.meta
+Assets/TextMesh Pro/Fonts/MySpecialCharacters.txt
+Assets/TextMesh Pro/Fonts/MySpecialCharacters.txt.meta
+Assets/TextMesh Pro/Fonts/Special characters.meta
+Assets/TextMesh Pro/Fonts/Special characters/MyFont.sfd
+Assets/TextMesh Pro/Fonts/Special characters/MyFont.sfd.meta
+Assets/TextMesh Pro/Fonts/Special characters/all characters.psd
+Assets/TextMesh Pro/Fonts/Special characters/all characters.psd.meta
+Assets/TextMesh Pro/Fonts/Special characters/chair.png
+Assets/TextMesh Pro/Fonts/Special characters/chair.png.meta
+Assets/TextMesh Pro/Fonts/Special characters/ice cube.png
+Assets/TextMesh Pro/Fonts/Special characters/ice cube.png.meta
+Assets/TextMesh Pro/Fonts/Special characters/standing person.png
+Assets/TextMesh Pro/Fonts/Special characters/standing person.png.meta
+Assets/TextMesh Pro/Fonts/Symbola.docx
+Assets/TextMesh Pro/Fonts/Symbola.docx.meta
+Assets/TextMesh Pro/Fonts/Symbola.pdf
+Assets/TextMesh Pro/Fonts/Symbola.pdf.meta
+Assets/TextMesh Pro/Fonts/Symbola.ttf
+Assets/TextMesh Pro/Fonts/Symbola.ttf.meta
+Assets/TextMesh Pro/Fonts/Symbola_hint.ttf
+Assets/TextMesh Pro/Fonts/Symbola_hint.ttf.meta
+Assets/TextMesh Pro/Resources.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/MyFontSymbols SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/MyFontSymbols SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/Symbola SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/Symbola SDF.asset.meta
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Assets/TextMesh Pro/Resources/Style Sheets.meta
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Assets/TextMesh Pro/Resources/TMP Settings.asset
+Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Assets/TextMesh Pro/Shaders.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+Assets/TextMesh Pro/Shaders/TMPro.cginc
+Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+Assets/TextMesh Pro/Sprites.meta
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.png
+Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+Assets/icon.png
+Assets/icon.png.meta
+BuildAndroid/Mannequin_BurstDebugInformation_DoNotShip/tempburstlibs/armeabi-v7a/lib_burst_generated.txt
+HQ materals/Base_Adult.fbx
+HQ materals/Base_Adult.mtl
+HQ materals/Base_Adult.obj
+HQ materals/Hight quality human.blend
+HQ materals/Hight quality human.blend1
+HQ materals/Icon copy.png
+HQ materals/Icon.psd
+HQ materals/banner.png
+HQ materals/banner.psd
+HQ materals/obj.mtl
+HQ materals/obj.obj
+HQ materals/teapot/Teapot01.json
+HQ materals/teapot/_data.json
+HQ materals/test_object.blend
+HQ materals/test_object.blend1
+Imported objects/_objects.json
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/BurstAotSettings_Android.json
+ProjectSettings/BurstAotSettings_StandaloneWindows.json
+ProjectSettings/BurstAotSettings_WebGL.json
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/CommonBurstAotSettings.json
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/TimelineSettings.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/XRSettings.asset
+ProjectSettings/boot.config
+SavedData/Imported objects/1405015424/dclheightchart12032013.png
+SavedData/Imported objects/1405015424/tn.jpg
+SavedData/Imported objects/1592958080/icon.png
+SavedData/Imported objects/1592958080/tn.jpg
+SavedData/Imported objects/1799178752/dclheightchart12032013.png
+SavedData/Imported objects/1799178752/tn.jpg
+SavedData/Imported objects/694252352/back.png
+SavedData/Imported objects/694252352/tn.jpg
+SavedData/Imported objects/_objects.json
+SavedData/Worlds/_test 2/Data.json
+SavedData/Worlds/_test 2/Objects/1715723587.json
+SavedData/Worlds/_test 2/Objects/2049950708.json
+SavedData/Worlds/_test 2/Objects/772657979.json
+SavedData/Worlds/_test/Data.json
+SavedData/Worlds/_test/Objects/1357990573.json

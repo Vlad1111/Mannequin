@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e5f43ce5519d3d04e9d39d7777e461c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Symbola
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1b3c8ffb2686984badc019fc5119c6e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
